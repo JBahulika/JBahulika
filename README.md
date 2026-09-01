@@ -40,22 +40,6 @@ Currently exploring **AI-integrated systems, agentic workflows, and data/ML infr
 
 ---
 
-## 🚀 Featured Work
-
-### 🔋 AI-Driven EV Charging & Route Optimization
-
-An intelligent system combining **Machine Learning, Reinforcement Learning, optimization, and GenAI** to explore EV charging and route-planning decisions.
-
-### 🧠 ANVAYA
-
-An AI-powered knowledge and retrieval system focused on **embeddings, semantic search, RAG, and intelligent document interaction**.
-
-### 🤖 AI & Agentic Systems
-
-Projects exploring **LLMs, AI agents, tool-based workflows, local models, and AI-powered automation**.
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / Machine Learning
