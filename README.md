@@ -1,30 +1,154 @@
 # Hi, I'm JBahulika 👋
 
-Contribution snake animation of my GitHub activity:
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JBahulika/github-snake/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JBahulika/github-snake/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JBahulika/github-snake/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/JBahulika/github-snake/output/github-snake.svg">
 </picture>
 
+### AI/ML • Generative AI • Intelligent Systems
 
+I'm an **AI/ML enthusiast focused on building practical intelligent systems**, with hands-on experience across **Machine Learning, Generative AI, RAG, Agentic AI, Computer Vision, and AI-powered applications**.
 
-- 🔭 I'm currently working on **AI integrated projects**
+I enjoy taking an idea from **model → backend → AI pipeline → interactive application**, rather than stopping at a notebook.
 
-- 🌱 I'm currently learning **SnowFlake**
+Currently exploring **AI-integrated systems, agentic workflows, and data/ML infrastructure**, while continuously expanding my skills across the AI stack.
 
-- 📫 How to reach me **jbahulika@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🧠 What I Work On
+
+- 🤖 **Generative AI & LLM Applications**  
+  Building applications using LLMs, prompt engineering, embeddings, RAG, and local/open-source models.
+
+- 🔎 **RAG & AI Retrieval Systems**  
+  Working with document processing, embeddings, vector search, retrieval pipelines, and context-aware generation.
+
+- 🧩 **Agentic AI**  
+  Exploring AI agents, tool use, multi-step workflows, and systems where models can take action.
+
+- 📊 **Machine Learning**  
+  Building ML pipelines for prediction, classification, optimization, and data-driven decision making.
+
+- 👁️ **Computer Vision**  
+  Working with image processing and vision-based intelligent applications using OpenCV and deep learning frameworks.
+
+- ⚡ **AI Application Development**  
+  Turning models into usable applications with APIs, dashboards, and interactive interfaces.
+
+---
+
+## 🚀 Featured Work
+
+### 🔋 AI-Driven EV Charging & Route Optimization
+
+An intelligent system combining **Machine Learning, Reinforcement Learning, optimization, and GenAI** to explore EV charging and route-planning decisions.
+
+### 🧠 ANVAYA
+
+An AI-powered knowledge and retrieval system focused on **embeddings, semantic search, RAG, and intelligent document interaction**.
+
+### 🤖 AI & Agentic Systems
+
+Projects exploring **LLMs, AI agents, tool-based workflows, local models, and AI-powered automation**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / Machine Learning
+
 <p align="left">
-<a href="https://github.com/JBahulika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JBahulika" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/JBahulika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JBahulika" height="30" width="40" /></a>
-<a href="https://twitter.com/BahuBlessed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BahuBlessed" height="30" width="40" /></a>
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
+</a>
+<a href="https://pytorch.org/">
+<img src="https://skillicons.dev/icons?i=pytorch" width="45"/>
+</a>
+<a href="https://www.tensorflow.org/">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="45"/>
+</a>
+<a href="https://opencv.org/">
+<img src="https://skillicons.dev/icons?i=opencv" width="45"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gradio" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+**Python • PyTorch • TensorFlow • Scikit-learn • NumPy • Pandas • Matplotlib**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JBahulika&" alt="JBahulika" /></p>
+### 🧠 Generative AI
 
+**LLMs • RAG • Embeddings • LangChain • Hugging Face • Ollama • Agentic AI**
+
+### ⚡ Backend & Applications
+
+<p align="left">
+<a href="https://fastapi.tiangolo.com/">
+<img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
+</a>
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+</a>
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
+</a>
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
+</a>
+</p>
+
+**FastAPI • Node.js • React • Streamlit • Gradio • REST APIs**
+
+### 🗄️ Data & Tools
+
+<p align="left">
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+</a>
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" width="45"/>
+</a>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="45"/>
+</a>
+<a href="https://jupyter.org/">
+<img src="https://skillicons.dev/icons?i=jupyter" width="45"/>
+</a>
+</p>
+
+**MySQL • Docker • Git • Jupyter • Snowflake**
+
+---
+
+## 🌱 Currently Learning
+
+**Snowflake • Advanced RAG • Agentic AI • AI System Design • ML Deployment**
+
+I'm particularly interested in how AI moves beyond a model into **reliable, scalable systems that solve real-world problems.**
+
+---
+
+## 🎯 What I'm Looking For
+
+**AI/ML Engineering • Generative AI • Applied AI • Machine Learning • Agentic AI • Data & AI Platforms**
+
+I'm excited by teams where I can **build, learn quickly, and work on AI systems that actually ship.**
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+<a href="https://github.com/JBahulika">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+<a href="https://linkedin.com/in/JBahulika">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+</p>
+
+📧 **jbahulika@gmail.com**
+
+---
+<p align="center">
+<i>Building AI that goes beyond the notebook.</i>
+</p>
