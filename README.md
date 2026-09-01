@@ -6,7 +6,9 @@
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/JBahulika/github-snake/output/github-snake.svg">
 </picture>
 
-### AI/ML • Generative AI • Intelligent Systems
+## 🚀 AI/ML Engineer | Building practical intelligent systems
+
+**GenAI** • **RAG** • **Agentic AI** • **Machine Learning** • **Computer Vision**
 
 I'm an **AI/ML enthusiast focused on building practical intelligent systems**, with hands-on experience across **Machine Learning, Generative AI, RAG, Agentic AI, Computer Vision, and AI-powered applications**.
 
