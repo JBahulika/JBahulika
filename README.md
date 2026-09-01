@@ -138,12 +138,13 @@ I'm excited by teams where I can **build, learn quickly, and work on AI systems 
 ## 📫 Let's Connect
 
 <p align="left">
-<a href="https://github.com/JBahulika">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
-<a href="https://linkedin.com/in/JBahulika">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
+  
+  <a href="https://www.linkedin.com/in/j-bahulika-8b8237207/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/BahuBlessed" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" width="45" alt="X"/>
+  </a>
 </p>
 
 📧 **jbahulika@gmail.com**
