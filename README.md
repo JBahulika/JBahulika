@@ -1,9 +1,9 @@
 # Hi, I'm JBahulika 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JBahulika/github-snake/output/github-snake-dark.svg?v=20260905">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JBahulika/github-snake/output/github-snake.svg?v=20260905">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/JBahulika/github-snake/output/github-snake.svg?v=20260905">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JBahulika/github-snake/output/github-snake-dark.svg?v=20260906">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JBahulika/github-snake/output/github-snake.svg?v=20260906">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/JBahulika/github-snake/output/github-snake.svg?v=20260906">
 </picture>
 
 ## 🚀 AI/ML Engineer | Building practical intelligent systems
